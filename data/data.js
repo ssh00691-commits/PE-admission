@@ -19,3 +19,4 @@ window.PE_DATA = {
     {"name":"가톨릭관동대학교","year":2027,"type":"공식 확인","summary":"수시 실기전형 실질반영비율 실기 52.38%, 교과 47.62%.","sourceUrl":"https://ipsi.cku.ac.kr/bbs/iphak/1059/151303/download.do"}
   ]
 };
+
